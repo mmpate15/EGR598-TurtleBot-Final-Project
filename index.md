@@ -1,11 +1,11 @@
 ---
-title: Foldable Robots Project 
+title: TurtleBot 
 ---
 
 
-# Project Title: Artificial Muscle for Legged Robots
+# Project Title: TurtleBot Lane following with Deep Neural Networks (Computer Vision)
 
-**Team 3**
+**Team 5**
 
 |    Name                                       |    Email    |
 | -----------                                   | ----------- |
